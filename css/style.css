@@ -1,0 +1,75 @@
+.top-icon {
+	background: #fff;
+	color: #15627a;
+	border-radius: 100%;
+	padding: 15px;
+}
+
+.menu-bar {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+
+.menu-bar li {
+	display: inline-flex;
+	list-style: none;
+	text-decoration: none;
+}
+.menu-bar ul li a {
+	text-decoration: none;
+	padding: 25px 0 30px 34px;
+}
+.active--link {
+	color: green;
+}
+li a:not(.active--link) {
+	color: #555;
+}
+
+.section-bg {
+	background: #162e53e7;
+}
+
+.image-style {
+	max-width: 230px;
+}
+
+.icons {
+	font-size: 260%;
+	opacity: 0.5;
+}
+
+.stats-icons {
+	font-size: 200%;
+	color: #ffffff;
+}
+
+.stats-col1--bg {
+	background: #13a36c;
+	height: 90%;
+}
+.stats-col4--bg {
+	background: #162e53e7;
+}
+
+.underline-title {
+	text-decoration-line: underline;
+	text-decoration-color: #13a36c;
+}
+.footer-icons {
+	color: #fff;
+	border: 1px solid;
+	border-radius: 2px round;
+}
+
+.footer-icons i {
+	background: none;
+}
+.footer-line {
+	opacity: 0.3;
+	font-weight: 900;
+}
+
+.address-info {
+	opacity: 0.5;
+}
